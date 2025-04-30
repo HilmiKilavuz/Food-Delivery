@@ -7,11 +7,12 @@ Bu proje, modern Android geliştirme araçları olan **Kotlin** ve **Jetpack Com
 
 ### Ana Arayüz
 
-![Ana Ekran](\screenshoots\screenshot2.jpg)
+<img src="screenshoots/screenshot2.jpg" alt="Yemek" width="300" height="200">
+
 
 ### Alternatif Arayüz / Diğer Görsel
+<img src="screenshoots/screenshoot1.jpg" alt="Yemek" width="300" height="200">
 
-![İkinci Ekran](\screenshoots\screenshoot1.jpg)
 
 ## 🛠 Kullanılan Teknolojiler
 
